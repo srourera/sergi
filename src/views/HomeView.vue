@@ -3,7 +3,7 @@
     <div class="profile-container">
       <img src="/profile.png" alt="Foto de perfil" class="profile-image" />
       <h1 class="name">Sergi Rourera</h1>
-      <router-link to="/cv" class="cv-button"> Ver currículum </router-link>
+      <router-link to="/cv" class="cv-button"> See my CV </router-link>
     </div>
   </div>
 </template>
